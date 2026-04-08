@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - [2026-02-09] | [nestjs/nest] | [PR #16326](https://github.com/nestjs/nest/pull/16326) | Kafka option test and JSDoc
 - [2026-02-25] | [nestjs/nest] | [PR #16429](https://github.com/nestjs/nest/pull/16429) | global preRequest hook
 - [2026-03-03] | [nodejs/node] | [PR #61913](https://github.com/nodejs/node/pull/61913) | CompressionStream ArrayBuffer support
+- [2026-04-08] | [spring-project/spring-security] | [PR #18938](https://github.com/spring-projects/spring-security/pull/18938) | WebAuthn publishes authentication events
